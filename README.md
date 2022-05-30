@@ -1,4 +1,4 @@
-#**Learning about VMs** 
+# **Learning about VMs** 
 
 By the end of this project I hope to have a better understanding of:
 
